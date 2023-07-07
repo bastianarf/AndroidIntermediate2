@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StoryApps</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Full Name</string>
+    <string name="story_app">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="description">Deskripsi</string>
+    <string name="logout">Log Out</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="gambar_story">Gambar Story</string>
+    <string name="description_image_story">Gambar Story</string>
+    <string name="camera">Camera</string>
+    <string name="gambar_hasil_upload">Gambar Hasil Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="please_input_image">Masukkan gambar</string>
+    <string name="please_input_description">Masukkan deskripsi</string>
+    <string name="email_must_valid">Email Harus Valid</string>
+    <string name="invalid_password">Password anda salah</string>
+    <string name="user_not_found">Akun Tidak Ditemukan</string>
+    <string name="error_empty_description">Deskripsi Tidak Boleh Kosong</string>
+    <string name="image_page">Gambar Halaman</string>
+    <string name="no_account">Belum Punya Akun?</string>
+    <string name="have_account">Punya akun?</string>
+    <string name="email_taken">Email Sudah Terdaftar</string>
+    <string name="unauthorized_perm">Tidak Mendapatkan Permission</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="activity_maps_title">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="share_location">Bagi Lokasi</string>
+    <string name="please_activate_location_message">Tolong Aktifkan GPS mu</string>
+    <string name="location_permission_denied">Lokasi permission tidak diperbolehkan</string>
+    <string name="location_permission_denied_action">Mengganti Setting</string>
+
+</resources>

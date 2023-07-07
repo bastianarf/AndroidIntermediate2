@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/maps"
+        app:showAsAction="collapseActionView|ifRoom" />
+    <item
+        android:id="@+id/add_story"
+        android:icon="@drawable/ic_add_photo_24"
+        android:title="@string/add_story"
+        app:showAsAction="collapseActionView|always" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_logout_24"
+        android:title="@string/logout"
+        app:showAsAction="collapseActionView|always" />
+
+
+</menu>
